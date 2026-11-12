@@ -16,7 +16,7 @@
 {
       "type": "Feature",
       "properties": {
-        "cre": "Sedes"
+        "cre": "Sede"
       },
       "geometry": {
         "type": "Polygon",
